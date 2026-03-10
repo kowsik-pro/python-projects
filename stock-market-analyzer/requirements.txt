@@ -1,0 +1,5 @@
+The requirements are
+
+pandas
+matplotlib
+numpy
